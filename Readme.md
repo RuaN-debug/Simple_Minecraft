@@ -34,6 +34,8 @@ And run the Simple_Minecraft.py file:
 python Simple_Minecraft.py
 ```
 
+To close the game you need to press alt + tab and close the window.
+
 # Game running
 
 ![image](https://user-images.githubusercontent.com/54671133/129490335-c8f24ac1-fad4-4797-a244-8d70bc04135d.png)
